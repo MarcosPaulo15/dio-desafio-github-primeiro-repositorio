@@ -1,0 +1,2 @@
+Pasta teste para git.
+Git Bash é um terminal extendido para otimizar o uso do git.
